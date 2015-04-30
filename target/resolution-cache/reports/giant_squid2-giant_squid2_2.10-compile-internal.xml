@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="compile-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20150430124058"/>
+		date="20150430125240"/>
 	<dependencies>
 		<module organisation="org.gitlab" name="java-gitlab-api">
 			<revision name="1.1.4" status="release" pubdate="20140526142517" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="1">

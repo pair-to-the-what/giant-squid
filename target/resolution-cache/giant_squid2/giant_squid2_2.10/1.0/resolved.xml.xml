@@ -4,7 +4,7 @@
 		module="giant_squid2_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20150430124057"
+		publication="20150430125240"
 	>
 		<description>
 		giant_squid2
@@ -35,7 +35,7 @@
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.10.4" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.10.4" conf="scala-tool->default,optional(default);compile->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_2.10" rev="2.0" conf="test->default(compile)"/>
-		<dependency org="org.scalamock" name="scalamock-scalatest-support_2.10" rev="3.2" conf="test->default(compile)"/>
+		<dependency org="org.scalamock" name="scalamock-scalatest-support_2.10" rev="3.2.1" conf="test->default(compile)"/>
 		<dependency org="org.gitlab" name="java-gitlab-api" rev="1.1.4" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
