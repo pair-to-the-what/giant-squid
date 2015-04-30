@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.gitlab:java-gitlab-api:1.1.4:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.gitlab/java-gitlab-api/jars/java-gitlab-api-1.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,5 @@
+build
+maKE
+RUN
+compile
+exit
